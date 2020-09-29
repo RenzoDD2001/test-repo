@@ -6,6 +6,6 @@ int main()
     int x,y;
 
 
-
+    system("pause");
     return 0;
 }
